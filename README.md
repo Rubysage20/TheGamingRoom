@@ -1,4 +1,4 @@
-# TheGamingRoom
+# Draw It or Lose It
 Draw It or Lose It - Software Design Overview
 About the Client
 The Gaming Room is a game development company currently operating an Android-based game called Draw It or Lose It. The game is loosely inspired by Win, Lose or Draw and involves teams competing to guess what is being drawn from a library of stock images. The client’s goal is to expand the game into a web-based, cross-platform application that maintains performance, consistency, and scalability across desktop and mobile environments.
